@@ -1,3 +1,4 @@
+import React from 'react';
 import { forwardRef, useImperativeHandle, useRef } from 'react'
 import './CustomInput.css'
 
